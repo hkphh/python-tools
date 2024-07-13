@@ -1,10 +1,12 @@
 # python-tools
 
-![image](https://github.com/user-attachments/assets/dd17a60b-13a2-47b7-a2b4-b84ccb9e82ef)
+
 
 ### Windows Registry View
 
 This project provides a simple graphical user interface (GUI) to view basic information from the Windows Registry. It is designed to display key details about the operating system and user information in a clear and user-friendly manner.
+
+![image](https://github.com/user-attachments/assets/dd17a60b-13a2-47b7-a2b4-b84ccb9e82ef)
 
 #### Features
 
